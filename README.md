@@ -20,4 +20,5 @@ https://www.youtube.com/watch?v=eoXn6nwV694
 
 ## Rotation matrices
 ![Matrices](Other/matrix.png)
+<br>
 I multiplied my (x, y, z) point in 3D space only with the Rx rotation matrix but all three dimensional rotation can be implemented.
