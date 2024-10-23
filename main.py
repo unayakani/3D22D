@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import math
 
-focal_length = 5
-z = 2
+focal_length = 2
+z = 5
 rotation_amount = 0.785 # 45 deg
 
 cube = [(-0.5, 0.5, z), (-0.5, -0.5, z), (0.5, 0.5, z), (0.5, -0.5, z), (-0.5, 0.5, z + 1), (-0.5, -0.5, z + 1), (0.5, 0.5, z + 1), (0.5, -0.5, z + 1)]
