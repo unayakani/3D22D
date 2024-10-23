@@ -111,6 +111,7 @@ plt.plot(x9, y9)
 plt.plot(x10, y10)
 plt.plot(x11, y11)
 plt.plot(x12, y12)
+plt.axis('off')
 
 plt.subplot(121).set_title('Before rotation')
 plt.plot(x13, y13)
@@ -125,6 +126,8 @@ plt.plot(x21, y21)
 plt.plot(x22, y22)
 plt.plot(x23, y23)
 plt.plot(x24, y24)
+plt.axis('off')
+
 plt.show()
 
 # ===============================================================
